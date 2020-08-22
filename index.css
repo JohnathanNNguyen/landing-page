@@ -50,15 +50,21 @@ body{
 }
 .product-1{
     width: 100%;
+    max-height: 245px;
+    max-width: 361px;
 
 }
 .product-2{
     width: 100%;
-    max-height: 218px;
+    max-height: 245px;
+    max-width: 361px;
+
 }
 .product-3{
     width: 100%;
-    max-height: 218px;
+    max-height: 245px;
+    max-width: 361px;
+
 }
 a:hover{
     color: #01a1dd;
