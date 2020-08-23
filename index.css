@@ -34,7 +34,7 @@ body{
 }
 .coffee-photo{
     margin-top: 50px;
-    width: 95vw;
+    width: 100vw;
 }
 /*comp values*/
 .comp-values{
@@ -59,27 +59,17 @@ body{
 .product-showcase{
     margin-top: 50px`;
 }
+.product-container{
+    box-shadow: 3px 1px 10px -1px rgba(0,0,0,0.17);
+}
 .coffee-link{
     color: black;
 }
-.product-1{
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    max-height: 360px;
-
-
-}
-.product-2{
-    width: 100%;
-    max-height: 360px;
-
-
-}
-.product-3{
-    width: 100%;
-    max-height: 360px;
-
+.products{
+width: 100%;
+max-height: 213px;
+max-width: 350px;
+margin-top: 50px;
 
 }
 a:hover{
